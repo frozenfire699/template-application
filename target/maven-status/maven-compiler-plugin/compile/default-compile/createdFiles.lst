@@ -1,0 +1,7 @@
+org/megro/configuration/JpaConfiguration.class
+org/megro/controller/requestmappings/RequestMappings.class
+org/megro/loader/DataLoader.class
+org/megro/controller/exception/NotFoundException.class
+org/megro/TemplateApplication.class
+org/megro/configuration/JacksonConfiguration.class
+org/megro/service/DemoService.class
